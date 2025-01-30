@@ -1,4 +1,4 @@
-This is a new content in a new fild,
+This is a new content in a new file,
 
 # Heading
 
