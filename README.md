@@ -1,7 +1,7 @@
 # Spring2025Hydroinformatics
 Code for 2025 Hydroinformatics Class
 
-To contribut
+To contribute
 * write some code
 * committ
 
